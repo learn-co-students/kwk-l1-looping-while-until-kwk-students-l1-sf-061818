@@ -1,7 +1,9 @@
-def using_while
+def cake
 	levitation_force = 6
+	while levitation_force < 10 
+	puts "WHOA THE CAKE IS FLOATING!"
+	levitation_force += 1
 	
-	#your code here
+end	
 end
-
-
+cake 
